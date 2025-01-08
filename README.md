@@ -31,8 +31,6 @@ To set up the environment and install the necessary libraries, run the following
 
 ```bash
 pip install -r requirements.txt
-
-## Clone Repository
 git clone https://github.com/anirudhviswanath2001/ClassicMNIST.git
 cd ClassicMNIST
 
