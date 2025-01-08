@@ -1,6 +1,7 @@
 # ClassicMNIST
 
-This project implements a machine learning model using the K-Nearest Neighbors (KNN) algorithm to classify handwritten digits from the MNIST dataset. The model achieves an accuracy of **97.54%** on the test set.
+This project implements a machine learning model using the K-Nearest Neighbors (KNN) algorithm to classify handwritten digits from the MNIST dataset.
+Shifting the pixels of the image left,right,up,down using data augmentation,The model achieves an accuracy of **97.54%** on the test set.
 
 ## Table of Contents
 - [Introduction](#introduction)
